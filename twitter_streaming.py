@@ -20,14 +20,6 @@ class StdOutListener(StreamListener):
 	def on_error(self, status):
 		#print status
 		pass
-
-
-	# def on_data(self, data):
-	# 	dataJSON = json.loads(data)
-
-	# 	print dataJSON
-
-	# 	return True
 	
 	def on_status(self, status):
 		try:
