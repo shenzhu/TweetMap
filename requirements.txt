@@ -15,7 +15,7 @@ pymongo==3.3.0
 python-dateutil==2.5.3
 python-engineio==1.0.3
 python-socketio==1.6.0
-requests==2.11.1
+requests==2.20.0
 requests-oauthlib==0.7.0
 six==1.10.0
 tweepy==3.5.0
